@@ -1,5 +1,5 @@
 # Star_Catcher_Pygame
-Star catching game in 1 Player and 2 Players using Pygame.
+A simple Star catching game in 1 Player and 2 Players using Pygame.
 
 It is a simple game written using Pygame.
 
@@ -20,3 +20,4 @@ The image below is a preview of two players game
 ![star_catcher_2](https://github.com/Bharathi-Tulasi/Star_Catcher_Pygame/assets/121544324/6fe303a5-f89b-4eb3-8455-a5cad8fe0ab2)
 
 
+Difficulty can be added to the game using your own creativity by modifying it and extending it further. 
